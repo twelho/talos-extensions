@@ -1,0 +1,10 @@
+version: v1alpha1
+metadata:
+  name: open-cas
+  version: "$VERSION"
+  author: Dennis Marttinen
+  description: |
+    This system extension provides the Open CAS kernel module built for the Talos Linux kernel.
+  compatibility:
+    talos:
+      version: ">= v1.10.0"

@@ -1,6 +1,6 @@
 # THIS FILE WAS AUTOMATICALLY GENERATED, PLEASE DO NOT EDIT.
 #
-# Generated on 2025-06-10T13:29:12Z by kres 5128bc1.
+# Generated on 2025-06-28T19:42:34Z by kres 5128bc1.
 
 # common variables
 
@@ -96,6 +96,7 @@ TARGETS += nvidia-fabricmanager-production
 TARGETS += nvidia-open-gpu-kernel-modules-lts
 TARGETS += nvidia-open-gpu-kernel-modules-production
 TARGETS += nvme-cli
+TARGETS += open-cas
 TARGETS += panfrost
 TARGETS += qemu-guest-agent
 TARGETS += qlogic-firmware
